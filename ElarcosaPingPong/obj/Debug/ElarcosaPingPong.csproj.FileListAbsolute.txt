@@ -1,0 +1,10 @@
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act6-PingPong\ElarcosaPingPong\bin\Debug\ElarcosaPingPong.exe.config
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act6-PingPong\ElarcosaPingPong\bin\Debug\ElarcosaPingPong.exe
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act6-PingPong\ElarcosaPingPong\bin\Debug\ElarcosaPingPong.pdb
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act6-PingPong\ElarcosaPingPong\obj\Debug\ElarcosaPingPong.Form1.resources
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act6-PingPong\ElarcosaPingPong\obj\Debug\ElarcosaPingPong.Properties.Resources.resources
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act6-PingPong\ElarcosaPingPong\obj\Debug\ElarcosaPingPong.csproj.GenerateResource.cache
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act6-PingPong\ElarcosaPingPong\obj\Debug\ElarcosaPingPong.exe
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act6-PingPong\ElarcosaPingPong\obj\Debug\ElarcosaPingPong.pdb
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act6-PingPong\ElarcosaPingPong\obj\Debug\ElarcosaPingPong.csproj.AssemblyReference.cache
+C:\Users\CJ Elarcosa\source\repos\1st year 2nd sem\Act6-PingPong\ElarcosaPingPong\obj\Debug\ElarcosaPingPong.csproj.CoreCompileInputs.cache
